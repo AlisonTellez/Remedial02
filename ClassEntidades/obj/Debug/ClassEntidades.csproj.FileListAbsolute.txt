@@ -1,0 +1,5 @@
+F:\Remedial2\Remedial02\ClassEntidades\bin\Debug\ClassEntidades.dll
+F:\Remedial2\Remedial02\ClassEntidades\bin\Debug\ClassEntidades.pdb
+F:\Remedial2\Remedial02\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+F:\Remedial2\Remedial02\ClassEntidades\obj\Debug\ClassEntidades.dll
+F:\Remedial2\Remedial02\ClassEntidades\obj\Debug\ClassEntidades.pdb
